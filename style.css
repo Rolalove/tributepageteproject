@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Lato:wght@700&family=Space+Mono:ital,wght@0,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=IBM+Plex+Mono:wght@200&family=Lato:wght@700&family=Space+Mono:ital,wght@0,400;1,700&display=swap');
 body{
     margin: 0;
     background-color: #ACC8E5;
@@ -55,8 +55,8 @@ a {
     text-decoration-style: double;
 }
 .leveldown p{
-    font-family: 'Courgette', cursive;
-    font-weight: 400;
+    font-family: 'IBM Plex Mono', monospace;
+    font-weight: 200;
     font-size: 16px;
     padding-left: 30px;
     
@@ -81,6 +81,6 @@ a {
     
 }
 .img-container img{
-    width: 200px;
+    width: 250px;
     height: 150px;
 }
