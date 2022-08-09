@@ -27,15 +27,15 @@ body{
 }
 .content table th {
     font-family: 'Lato', sans-serif;
-    font-size: 15px;
+    font-size: 16px;
     padding: 12px;
     color: #00006B;
     text-align: left;
 }
 .content table td {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Courgette', cursive;
     font-weight: 700;
-    font-size: 15px;
+    font-size: 16px;
     padding: 10px;
     border: none;
 }
@@ -55,7 +55,7 @@ a {
     text-decoration-style: double;
 }
 .leveldown p{
-    font-family: 'Lato', sans-serif;
+    font-family: 'Courgette', cursive;
     font-weight: 200;
     font-size: 25px;
     padding-left: 30px;
