@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Lato:wght@700&family=Space+Mono:ital,wght@0,400;1,700&display=swap');
+body{
+    margin: 0;
+    background-color: #ACC8E5;
+}
+/* header styling */
+.ha {
+    background-color: #000000;
+    padding: 29px;
+}
+.ha div {
+    position: absolute;
+    top: 15px;
+    right: 600px;
+}
+.top {
+    font-family: 'Courgette', cursive;
+    font-size: 30px;
+    color: white;
+}
+/* image float */
+.levelup {
+    float: left;
+}
+.content img{
+    border-radius: 60px;
+}
+.content table th {
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+    font-size: 20px;
+    padding: 12px;
+    color: #00006B;
+    text-align: left;
+}
+.content table td {
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+    font-size: 20px;
+    padding: 10px;
+    border: none;
+}
+a {
+    color: #5C2A6B;
+}
+/* section styling */
+.leveldown{
+    margin-top: 60px;
+}
+.leveldown h3, h4{
+    font-family: 'Space Mono', monospace;
+    font-weight: 700;
+    font-size: 30px;
+    padding-left: 30px;
+    text-decoration-line: underline;
+    text-decoration-style: double;
+}
+.leveldown p{
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+    padding-left: 30px;
+}
+.ttwo th, td{
+    border: 1px solid black;
+    width: 500px;
+    text-align: left;
+    vertical-align: middle;
+    padding: 15px;
+    font-family: 'Courgette', cursive;
+    font-size: 20px;
+}
+.ttwo td:hover {
+    background-color: wheat;
+}
+.img-container {
+    float: left;
+    width: 300px;
+    padding: 50px;
+    box-sizing: border-box;
+    
+}
+.img-container img{
+    width: 280px;
+    height: 350px;
+}
