@@ -27,15 +27,15 @@ body{
 }
 .content table th {
     font-family: 'Lato', sans-serif;
-    font-weight: 900;
-    font-size: 18px;
+    font-weight: 700;
+    font-size: 20px;
     padding: 12px;
     color: #00006B;
     text-align: left;
 }
 .content table td {
     font-family: 'Lato', sans-serif;
-    font-weight: 900;
+    font-weight: 700;
     font-size: 18px;
     padding: 10px;
     border: none;
@@ -81,6 +81,6 @@ a {
     
 }
 .img-container img{
-    width: 280px;
-    height: 350px;
+    width: 200px;
+    height: 300px;
 }
